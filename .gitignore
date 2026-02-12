@@ -1,0 +1,36 @@
+# Ignorar archivos de registro y directorios
+*.txt
+*.log
+*.pyc
+*.pyo
+**.env
+**.ini
+**.venv
+!.env_template
+**/__pycache__
+# Ignorar archivos de configuración de IDE
+.vscode/
+.idea/
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+# Ignorar archivos de dependencias
+node_modules/
+vendor/
+# Ignorar archivos de compilación
+dist/
+build/
+# Ignorar archivos de cobertura de pruebas
+coverage/
+# Ignorar archivos de configuración de herramientas de análisis estático
+.eslintrc.json
+.pylintrc
+# Ignorar archivos de configuración de herramientas de formateo
+.prettierignore
+.black
+# Ignorar archivos de configuración de herramientas de gestión de dependencias
+package-lock.json
+yarn.lock
+Pipfile.lock
+gitignore
+

@@ -1,0 +1,7 @@
+root: ./watsonx
+title: Watsonx
+description: Una guía completa de Watsonx, que cubre sus características, casos de uso y mejores prácticas para la implementación.
+author: Sebastian Gómez Sánchez
+structure:
+  readme: README.md
+  summary: SUMMARY.md
