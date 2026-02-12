@@ -14,6 +14,13 @@
   * [Amazon Web Service (AWS)](getting-started/cloud-computing/amazon-web-service-aws/README.md)
     * [AWS Security](getting-started/cloud-computing/amazon-web-service-aws/aws-security.md)
   * [Google Cloud Platform](getting-started/cloud-computing/google-cloud-platform.md)
+  * [International Business Machine](getting-started/cloud-computing/international-business-machine/README.md)
+    * [IBM Watsonx](getting-started/cloud-computing/international-business-machine/ibm-watsonx/README.md)
+      * [Watsonx Orchestrate](getting-started/cloud-computing/international-business-machine/ibm-watsonx/watsonx-orchestrate/README.md)
+        * [Laboratorios](getting-started/cloud-computing/international-business-machine/ibm-watsonx/watsonx-orchestrate/laboratorios/README.md)
+          * [Construye un agente GraphRAG usando Orchestrate y AstraDB](getting-started/cloud-computing/international-business-machine/ibm-watsonx/watsonx-orchestrate/laboratorios/construye-un-agente-graphrag-usando-orchestrate-y-astradb.md)
+        * [Documentación](getting-started/cloud-computing/international-business-machine/ibm-watsonx/watsonx-orchestrate/documentacion/README.md)
+          * [Kit de desarrollo de agentes orquestados "ADK"](getting-started/cloud-computing/international-business-machine/ibm-watsonx/watsonx-orchestrate/documentacion/kit-de-desarrollo-de-agentes-orquestados-adk.md)
 
 ## Basics
 
