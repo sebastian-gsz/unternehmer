@@ -18,7 +18,8 @@
     * [IBM Watsonx](getting-started/cloud-computing/international-business-machine/ibm-watsonx/README.md)
       * [Watsonx Orchestrate](getting-started/cloud-computing/international-business-machine/ibm-watsonx/watsonx-orchestrate/README.md)
         * [Laboratorios](getting-started/cloud-computing/international-business-machine/ibm-watsonx/watsonx-orchestrate/laboratorios/README.md)
-          * [Construye un agente GraphRAG usando Orchestrate y AstraDB](getting-started/cloud-computing/international-business-machine/ibm-watsonx/watsonx-orchestrate/laboratorios/construye-un-agente-graphrag-usando-orchestrate-y-astradb.md)
+          * [Construye un agente GraphRAG usando Orchestrate y AstraDB](getting-started/cloud-computing/international-business-machine/ibm-watsonx/watsonx-orchestrate/laboratorios/construye-un-agente-graphrag-usando-orchestrate-y-astradb/README.md)
+            * [Graph-Orchestra SDK](getting-started/cloud-computing/international-business-machine/ibm-watsonx/watsonx-orchestrate/laboratorios/construye-un-agente-graphrag-usando-orchestrate-y-astradb/graph-orchestra-sdk.md)
         * [Documentación](getting-started/cloud-computing/international-business-machine/ibm-watsonx/watsonx-orchestrate/documentacion/README.md)
           * [Kit de desarrollo de agentes orquestados "ADK"](getting-started/cloud-computing/international-business-machine/ibm-watsonx/watsonx-orchestrate/documentacion/kit-de-desarrollo-de-agentes-orquestados-adk.md)
 
