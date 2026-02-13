@@ -68,11 +68,20 @@ Cómo apunte general puedes desplegar la base de dato vectorial empleando la CLI
 **Crear una colección de documentos de Astra DB**<br>
 
 * Haz clic en la pestaña **del Explorador de datos** y **haz clic en Crear Colección**.
+* Introduce la información y luego haz clic **en Crear colección**.<br>
+  * Nombre de la colección: **wxo\_docs**
+  * Colección habilitada por vector: **Sí**
+  * Método de generación incrustada: **Bring my own**
+  * Dimensiones: **768**
+  * Métrica de similitud: **Coseno**
+
+<figure><img src="../../../../../../.gitbook/assets/crear-colección-documentos-astradb.webp" alt=""><figcaption></figcaption></figure>
+
 * Haz clic **en Detalles de conexión**.
 * Haz **clic en Generar token**.
-* Haz **clic en Generar token**.
+* Anota el token de solicitud porque lo necesitarás más adelante.
 
-
+<figure><img src="../../../../../../.gitbook/assets/create-astradb-access-token.webp" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Despliega la colección con Astra CLI: `astra db create-collection wxo_docs --collection wxo_docs --dimension 768 --metric cosine` .
@@ -89,3 +98,52 @@ Despliega la colección con Astra CLI: `astra db create-collection wxo_docs --co
 {% endhint %}
 
 </details>
+
+***
+
+<p align="center"><a href="https://github.com/sebastian-gsz/WatsonxOrchestrateGraphRAG/tree/main"><strong>Accede al repositorio</strong></a></p>
+
+***
+
+<details>
+
+<summary><strong>Configura IBM Cloud Watsonx</strong></summary>
+
+* **Selecciona Proyectos → Ver todos los proyectos** desde el menú hamburguesa, haz clic **en Nuevo proyecto**, introduce un nombre, selecciona Almacenamiento de objetos en la nube desde tu cuenta y haz clic **en Crear**.
+* Después de crear el proyecto, abre la pestaña **Gestionar**. Anota el ID del proyecto y añade tanto el ID del proyecto como la clave API de la nube de IBM al archivo:`.env`
+* Selecciona la pestaña **Servicios e Integraciones** en la navegación y haz clic **en Servicio Asociado**. Elige una instancia de watsonx.ai Runtime para asociarla con el proyecto.
+*
+
+<figure><img src="../../../../../../.gitbook/assets/watsonx.ai-create-project.webp" alt=""><figcaption></figcaption></figure>
+
+* Inicia sesión en IBM Cloud y ve a **Gestionar → Acceso (IAM) → Claves API → Crear** para crear una clave API de IBM Cloud.
+* Toma nota de la clave API de IBM Cloud porque la necesitarás más adelante.
+
+
+
+<figure><img src="../../../../../../.gitbook/assets/ibm-cloud-create-api.webp" alt=""><figcaption></figcaption></figure>
+
+
+
+Después de crear el proyecto, abre la pestaña **Gestionar**. Anota el ID del proyecto y añade tanto el ID del proyecto como la clave API de la nube de IBM al archivo junto a los demás secretos de Astra: `.env`&#x20;
+
+```
+ASTRA_DB_APPLICATION_TOKEN=
+ASTRA_DB_API_ENDPOINT=
+ASTRA_DB_COLLECTION=
+WATSONX_APIKEY=
+WATSONX_PROJECT_ID=
+```
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
