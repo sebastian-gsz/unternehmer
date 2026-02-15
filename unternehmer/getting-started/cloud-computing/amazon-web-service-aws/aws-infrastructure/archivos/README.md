@@ -1,5 +1,5 @@
 ---
-icon: face-fearful
+icon: spider
 layout:
   width: default
   title:
@@ -13,11 +13,11 @@ layout:
   pagination:
     visible: true
   metadata:
-    visible: false
+    visible: true
   tags:
     visible: true
 ---
 
-# Laboratorios
+# Archivos
 
-<h2 align="center">Laboratorios</h2>
+<h2 align="center">Archivos</h2>

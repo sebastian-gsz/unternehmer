@@ -22,8 +22,8 @@ layout:
 
 {% columns fullWidth="false" %}
 {% column width="50%" %}
-{% content-ref url="aws-security.md" %}
-[aws-security.md](aws-security.md)
+{% content-ref url="aws-infrastructure/" %}
+[aws-infrastructure](aws-infrastructure/)
 {% endcontent-ref %}
 {% endcolumn %}
 

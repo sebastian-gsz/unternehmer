@@ -18,6 +18,6 @@ layout:
     visible: true
 ---
 
-# Google Cloud Platform Networking
+# Archivos
 
-<h2 align="center">Google Cloud Platform Networking</h2>
+<h2 align="center">Archivos</h2>

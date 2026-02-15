@@ -54,12 +54,12 @@ Antes de empezar, asegúrate de tener lo siguiente:
 
 * Familiaridad básica con comandos de terminal y comandos bash.
 * Habilidades básicas de Python y habilidades generales de programación, incluyendo experiencia con Jupyter Notebooks.
-* Una instalación del **Kit de Desarrollo de Agentes (ADK)**. Si no lo tienes listo, sigue: [Kit de desarrollo de agentes orquestados](../documentacion/kit-de-desarrollo-de-agentes-orquestados-adk.md).
+* Una instalación del **Kit de Desarrollo de Agentes (ADK)**. Si no lo tienes listo, sigue: [Kit de desarrollo de agentes orquestados](../../watsonx-orchestrate/documentacion/kit-de-desarrollo-de-agentes-orquestados-adk.md).
 * Acceso a **IBM watsonx Orchestrate**. Puedes inscribirte en una [Prueba gratuita de 30 días.](https://www.ibm.com/account/reg/us-en/signup?formid=urx-52753\&utm_source=ibm_developer\&utm_content=in_content_link\&utm_id=tutorials_graphrag-agent-watsonx-orchestrate-astradb\&cm_sp=ibmdev-_-developer-tutorials-_-ibmcom)
 * Acceso a watsonx.ai. Puedes inscribirte en una [Prueba gratuita de 30 días](https://eu-de.dataplatform.cloud.ibm.com/registration/stepone?context=wx\&preselect_region=true\&utm_source=ibm_developer\&utm_content=in_content_link\&utm_id=tutorials_graphrag-agent-watsonx-orchestrate-astradb\&cm_sp=ibmdev-_-developer-tutorials-_-trial).
 
 {% hint style="success" %}
-**¿Buscas escalar?** Automatiza la configuración de tu arquitectura y servicios PaaS mediante código en: [Integración automatizada de Watsonx y AstraDB](construye-un-agente-graphrag-usando-orchestrate-y-astradb/graph-orchestra-sdk.md).
+**¿Buscas escalar?** Automatiza la configuración de tu arquitectura y servicios PaaS mediante código en: [Integración automatizada de Watsonx y AstraDB](graph-orchestra-sdk.md).
 {% endhint %}
 
 ***

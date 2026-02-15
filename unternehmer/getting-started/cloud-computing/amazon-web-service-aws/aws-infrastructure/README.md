@@ -13,11 +13,12 @@ layout:
   pagination:
     visible: true
   metadata:
-    visible: false
+    visible: true
   tags:
     visible: true
 ---
 
-# Laboratorios
+# AWS Infrastructure
 
-<h2 align="center">Laboratorios</h2>
+<h2 align="center">AWS Infrastructure</h2>
+
