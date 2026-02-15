@@ -21,6 +21,7 @@
     * [Google Cloud Platform Networking](getting-started/cloud-computing/google-cloud-platform/google-cloud-platform-networking/README.md)
       * [Laboratorios](getting-started/cloud-computing/google-cloud-platform/google-cloud-platform-networking/laboratorios/README.md)
         * [Balanceador de cargas de aplicación con Cloud Armor](getting-started/cloud-computing/google-cloud-platform/google-cloud-platform-networking/laboratorios/balanceador-de-cargas-de-aplicacion-con-cloud-armor.md)
+        * [Configurar una distribución CloudFront con un origen de S3](getting-started/cloud-computing/google-cloud-platform/google-cloud-platform-networking/laboratorios/configurar-una-distribucion-cloudfront-con-un-origen-de-s3.md)
   * [International Business Machine](getting-started/cloud-computing/international-business-machine/README.md)
     * [IBM Watsonx](getting-started/cloud-computing/international-business-machine/ibm-watsonx/README.md)
       * [Watsonx Orchestrate](getting-started/cloud-computing/international-business-machine/ibm-watsonx/watsonx-orchestrate/README.md)
